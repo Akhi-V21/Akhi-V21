@@ -7,8 +7,7 @@
 
 <!--
 **Akhi-V21/Akhi-V21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# 💫 About Me:
-# Hi, I’m Akhila G. Vaidya 👋<br><br>🎓 M.Sc. Data Science student at Jain University  <br>💻 Learning Python, Power BI, MySQL & Tableau  <br>🌱 Working on projects like Crop Identification using Satellite Data  <br>📚 Passionate about puzzles, books, music & traveling
+
 
 
 ## 🌐 Socials:
